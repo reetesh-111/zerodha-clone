@@ -32,4 +32,4 @@ This project focuses on clean design, responsive layouts, and replicating the lo
 
 You can view the deployed project here:
 
-👉 Zerodha Clone on GitHub Pages (reetesh-111.github.io/in/Bing)
+👉 Zerodha Clone on GitHub Pages (https://reetesh-111.github.io/Zerodha-Clone/)
